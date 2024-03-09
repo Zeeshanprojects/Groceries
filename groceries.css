@@ -1,0 +1,166 @@
+.box1 {
+    background-color: lightgreen;
+    height: 690px;
+    width: 100%;
+}
+
+.formenu {
+    position: absolute;
+    margin-top: 30px;
+    float: left;
+    width: 100%;
+    text-align: end;
+}
+
+.formenu ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.formenu ul li a:hover {
+    color: darkgreen
+}
+
+.formenu ul li {
+    display: inline;
+    margin: 0px 20px;
+    text-align: start;
+}
+
+.formenu ul {
+    margin-top: 40px;
+    height: 100px;
+}
+
+.get-in-touch {
+    padding: 5px 30px;
+    background-color: darkgreen;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    /* Adjust the value for the desired curve */
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.get-in-touch:hover {
+    background-color: yellowgreen;
+}
+
+.request {
+    padding: 5px 30px;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    /* Adjust the value for the desired curve */
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.request:hover {
+    background-color: yellowgreen;
+    color: white;
+}
+
+.get-started {
+    padding: 5px 50px;
+    background-color: darkgreen;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    /* Adjust the value for the desired curve */
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.get-started:hover {
+    background-color: yellowgreen;
+}
+
+.box2 {
+    background-color: white;
+    border: 1px solid;
+    padding-top: 60px;
+    height: 250px;
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 20px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.box2:hover {
+    transform: scale(1.1);
+}
+
+.box3 {
+    background-color: white;
+    height: 250px;
+    border: 1px solid;
+    padding-top: 60px;
+    text-align: center;
+    margin-top: 20%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.box3:hover {
+    transform: scale(1.1);
+}
+
+.box4 {
+    background-color: white;
+    height: 200px;
+    margin-top: 80%;
+}
+
+.box5 {
+    height: 280px;
+    margin-top: 80%;
+    margin-left: 80%;
+    width: 100%;
+}
+
+.sales {
+    padding: 10px 20px;
+    background-color: darkblue;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    /* Adjust the value for the desired curve */
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.curved-button1 {
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    /* Adjust the value for the desired curve */
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.curved-button1:hover {
+    background-color: yellowgreen;
+}
+
+footer {
+    background-color: blue;
+    color: white;
+    height: 310px;
+    width: 100%;
+    margin-top: 20px;
+}
